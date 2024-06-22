@@ -1,0 +1,7 @@
+scrapy==2.11.2
+selenium==4.21.0
+python-dotenv==1.0.1
+psycopg[binary]==3.1.19
+fake-useragent==1.5.1
+scrapy-rotating-proxies==0.6.2
+ipython==8.25.0
