@@ -3,8 +3,6 @@
 ![Supported Python Versions](https://img.shields.io/badge/python-3.8%2B-0D7FBF)
 ![Ubuntu](https://img.shields.io/badge/linux-compatible-40CA22)
 ![Windows](https://img.shields.io/badge/windows-compatible-40CA22)
-![Wheel Status](https://img.shields.io/badge/wheel-none-8B949C)
-![Coverage Status](https://img.shields.io/badge/codecov-0%25-FF0000)
 
 
 ## Overview
